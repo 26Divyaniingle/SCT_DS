@@ -1,4 +1,35 @@
-TASK2
+###TASK1####
+
+✅ Summary of the Dataset and Visualizations
+ analyzed the dataset Lending-Company-Total-Price.csv, which contains 415 loan records with the following key columns:
+
+Product – Type of loan product (e.g., Product A to F)
+
+CustomerGender – Gender of the customer
+
+TotalPrice – Total value of the loan (continuous numeric value)
+
+📊 Visualizations Created:
+Bar Chart – Customer Gender Distribution
+
+Shows the number of loans taken by Male, Female, and NotSpecified customers.
+
+Helps understand the gender distribution of customers.
+
+Bar Chart – Loan Product Distribution
+
+Displays the frequency of each product type offered by the lending company.
+
+Useful to identify the most and least popular loan products.
+
+Histogram – Total Loan Price Distribution
+
+Illustrates the spread and density of loan amounts.
+
+Includes a KDE line to indicate the distribution pattern (skew, concentration).
+
+
+###TASK2####
 
 🛠 Titanic Dataset – Data Cleaning & Exploratory Data Analysis (EDA)
 📂 Dataset Used
